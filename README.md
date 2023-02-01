@@ -3,6 +3,8 @@
 
 This is a totally public script for personal use, you can check the status of all the web pages you add to the included text document, there is no limit.
 
+Support here: <a href="https://discord.gg/isupport/">Discord</a> <br>
+
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/63476973/216017385-82374f2e-a598-4260-98ca-6e1005bbd7e3.png">
 
 
